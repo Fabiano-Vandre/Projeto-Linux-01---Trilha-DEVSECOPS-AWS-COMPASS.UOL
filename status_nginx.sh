@@ -2,7 +2,7 @@
 #
 servico="nginx"
 
-log_dir="/var/log/nginx"
+log_dir="/home/fabiano/projeto_linux01"
 
 #
 data_hora=$(date '+%c')
