@@ -1,7 +1,7 @@
 # Projeto Linux 01 - Trilha DevSecOps/AWS COMPASS.UOL
 
 ## Descrição
-## Criar um ambiente Linux no Windows:
+Criar um ambiente Linux no Windows:
 - Utilizando o WSL do Windows, crie um subsistema do Ubuntu 20.04 ou superior
 
 Atividade no Linux:
@@ -15,13 +15,12 @@ de ONLINE ou OFFLINE;
 - Fazer o versionamento da atividade;
 - Fazer a documentação explicando o processo de instalação do Linux.
 
-## Instruções
-Pré requisitos:
+## Pré requisitos:
 - Windows
 - Wsl
 - Ubuntu LTS 20.04 ou superior
 
-## Etapas
+## Instruções
 
 ### 1. Instalar o WSL e configurar o ambiente
 - Para instalar o WSL utilize o comando:
