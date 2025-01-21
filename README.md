@@ -76,6 +76,10 @@ nano status_nginx
 ```
 chmod u+x status_nginx.sh
 ```
+- Para executar o script digite o comando:
+```
+sudo ./status_nginx.sh
+```
 - Se o Nginx estiver online aparecerão as seguintes mensagens:
 
 ![nginx online](https://github.com/user-attachments/assets/dccc71b7-7bad-4147-ab8f-f75986c22b43)
