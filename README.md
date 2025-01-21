@@ -41,8 +41,7 @@ sudo systemctl status nginx
 
 ![Captura de tela 2025-01-16 090214](https://github.com/user-attachments/assets/2a1b7485-b735-47dc-990e-0587d52499ab)
 
-
-Após isso, faça outra verificação digitando no seu navegador o seguinte endereço http://localhost/
+- Após isso, faça outra verificação digitando no seu navegador o seguinte endereço http://localhost/
 
 ![Captura de tela 2025-01-16 093413](https://github.com/user-attachments/assets/8c9abf42-eec5-41d4-9429-73e032ecb3bb)
 
